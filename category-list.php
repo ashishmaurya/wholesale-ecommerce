@@ -1,4 +1,6 @@
-<h2 class="text-center">Featured Category</h2>
+<div class="row my-4">
+	<h2 class="text-center">Featured Category</h2>
+</div>
 <div class="category-list row">
     <?php
 $get_featured_cats = array(
