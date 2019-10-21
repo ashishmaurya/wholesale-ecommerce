@@ -52,13 +52,13 @@
 
 	  <ul class="list-unstyled">
 		<li>
-		  <a href="#!">Products</a>
+		  <a href="#!">Featured Products</a>
 		</li>
 		<li>
 		  <a href="#!">Category</a>
 		</li>
 		<li>
-		  <a href="#!">Link 3</a>
+		  <a href="#!">Products</a>
 		</li>
 	  </ul>
 
