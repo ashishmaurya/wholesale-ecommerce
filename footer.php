@@ -37,10 +37,7 @@
 		  <a href="#!">Terms & Condition</a>
 		</li>
 		<li>
-		  <a href="#!">About</a>
-		</li>
-		<li>
-		  <a href="#!">Link 4</a>
+		  <a href="#!">Help</a>
 		</li>
 	  </ul>
 
@@ -62,9 +59,6 @@
 		</li>
 		<li>
 		  <a href="#!">Link 3</a>
-		</li>
-		<li>
-		  <a href="#!">Link 4</a>
 		</li>
 	  </ul>
 
